@@ -3,8 +3,8 @@
 mikutterでyflogの画像が見れなくなってルータケーキ画像が見れなくなって残念なアナタ！
 このプラグインで解決だ！
 
-![router-cake](https://github.com/trickart/mikutter-router-cake/master/router-cake.png)
+![router-cake](https://raw.githubusercontent/trickart/mikutter-router-cake/master/router-cake.png)
 
 更にrouter-cake.d250g2.comにも対応だ！！
 
-![router-cake.d250g2.com](https://github.com/trickart/mikutter-router-cake/master/router-cake.d250g2.com.png)
+![router-cake.d250g2.com](https://raw.githubusercontent.com/trickart/mikutter-router-cake/master/router-cake.d250g2.com.png)
